@@ -1,25 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21857
-Fork on GitHub
-6958
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Dev Bhutani</h1>
 <h3 align="center">A passionate Full Stack Developer and DSA enthusiast from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhutanidev&label=Profile%20views&color=0e75b6&style=flat" alt="bhutanidev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhutanidev" alt="bhutanidev" /></a> </p>
 
 - 🔭 I’m currently working on [AIview](https://github.com/bhutanidev/AIview)
 
