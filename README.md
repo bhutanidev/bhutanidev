@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dev Bhutani</h1>
 <h3 align="center">A passionate Full Stack Developer , Competitive Programmer and Devops enthusiast from India</h3>
 
-- 🔭 I’m currently working on [AIview](https://github.com/bhutanidev/AIview)
-
 - 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **devbhutani10@gmail.com**
